@@ -1,0 +1,12 @@
+name = "gateway"
+main = "./cloudflare.ts"
+type = "javascript"
+
+[vars]
+INFURA_KEY=""
+ALCHEMY_KEY=""
+CHAIN_NAME="op"
+SHOULD_PREFETCH=false
+
+[dev]
+port = 3000

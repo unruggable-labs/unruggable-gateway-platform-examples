@@ -1,0 +1,9 @@
+{
+    "name": "unruggable-gateways-lambda",
+    "description": "An example of operational Unruggable Gateways using Lambda",
+    "version": "0.0.1",
+    "dependencies": {
+        "@unruggable/gateways": "^0.1.2-dev.8"
+    },
+    "scripts": {}
+}

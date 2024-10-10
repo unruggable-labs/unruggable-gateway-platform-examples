@@ -1,0 +1,11 @@
+{
+    "name": "unruggable-gateways-cloudflare",
+    "description": "An example of operational Unruggable Gateways using Cloudflare Workers",
+    "version": "0.0.1",
+    "dependencies": {
+        "@unruggable/gateways": "^0.1.2-dev.8"
+    },
+    "devDependencies": {
+        "wrangler": "^3.80.4"
+    }
+}
